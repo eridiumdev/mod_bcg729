@@ -5,7 +5,7 @@ FS_MODULES=/usr/local/freeswitch/mod
 ################################
 
 ### END OF CUSTOMIZATION ###
-SHELL := /bin/sh
+SHELL := /bin/bash
 PROC?=$(shell uname -m)
 CMAKE := cmake
 
